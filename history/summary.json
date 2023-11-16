@@ -4,19 +4,19 @@
     "url": "https://www.eqvy.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.eqvy.net.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "91.03%",
-    "uptimeDay": "91.03%",
-    "uptimeWeek": "91.03%",
-    "uptimeMonth": "91.03%",
-    "uptimeYear": "91.03%",
-    "time": 367,
-    "timeDay": 367,
-    "timeWeek": 367,
-    "timeMonth": 367,
-    "timeYear": 367,
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 344,
+    "timeDay": 344,
+    "timeWeek": 344,
+    "timeMonth": 344,
+    "timeYear": 344,
     "dailyMinutesDown": {
-      "2023-11-16": 12
+      "2023-11-16": 0
     }
   }
 ]
