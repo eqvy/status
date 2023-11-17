@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/eqvy.net.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "79.02%",
-    "uptimeDay": "79.02%",
-    "uptimeWeek": "79.02%",
-    "uptimeMonth": "79.02%",
-    "uptimeYear": "79.02%",
+    "uptime": "78.48%",
+    "uptimeDay": "78.48%",
+    "uptimeWeek": "78.48%",
+    "uptimeMonth": "78.48%",
+    "uptimeYear": "78.48%",
     "time": 338,
     "timeDay": 338,
     "timeWeek": 338,
     "timeMonth": 338,
     "timeYear": 338,
     "dailyMinutesDown": {
-      "2023-11-17": 131,
+      "2023-11-17": 137,
       "2023-11-16": 35
     }
   }
